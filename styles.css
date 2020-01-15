@@ -1,0 +1,13 @@
+body {
+  background-color: #DDFFFF;
+  width: 100%;
+}
+
+p {
+  margin: 50px 0;
+}
+
+.wrap {
+  width: 16em;
+  margin: 50px auto;
+}
